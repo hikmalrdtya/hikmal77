@@ -1,3 +1,4 @@
  ### 👋 Hi, I’m Hikmal Raditya
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmal77)](https://github.com/hikmal77/github-readme-stats)
+ <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hikmal77&show_icons=true&theme=radical"/>
+<img alt="My Top Langague Programs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmal77&layout=compact&theme=radical"/>
