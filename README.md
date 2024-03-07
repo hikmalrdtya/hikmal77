@@ -12,8 +12,7 @@
 <br> <br>
 
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hikmal77&show_icons=true&theme=radical"/>
-<img width=470 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hikmal77&count_private=true&theme=radical" alt="streak stats"/>
-<br>
-<div align="center" >
-<img alt="My Top Langague Programs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmal77&layout=compact&theme=radical"/>
-</div>
+<img width=400  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hikmal77&count_private=true&theme=radical" alt="streak stats"/>
+<br> <br>
+<img alt="My Top Langague Programs" align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmal77&layout=compact&theme=radical"/>
+
