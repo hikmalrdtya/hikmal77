@@ -7,7 +7,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,cpp,javascript" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,cpp,javascript,kotlin,php" />
 </div>
 <br> <br>
 
